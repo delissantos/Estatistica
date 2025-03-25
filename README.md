@@ -1,1 +1,1 @@
-# Estatistica
+Aplicativo em Python desenvolvido para a disciplina de Estatística.
